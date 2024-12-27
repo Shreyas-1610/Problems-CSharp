@@ -65,3 +65,20 @@ using System.Text.RegularExpressions;
 //float[] arr = {12.3F,14.33F, 33.23F, 88F,15.6F};
 //float ans = Average.FloatAvg(arr);
 //Console.WriteLine(Math.Round(ans,2));
+
+//int[] a = { 12,33,2,4,3,55,5,89};
+//List<int> final = PrimeArray.getPrime(a);
+//foreach(int i in final)
+//{
+//    Console.Write(i+" ");
+//}
+
+//int[] arr = { 12,5,2,33,0,5,42,1,0};
+//int ans = FirstRepeat.FindFirstOpti(arr);
+//Console.WriteLine(ans);
+//MoveZeros.move(arr);
+//Console.WriteLine(string.Join(" ",arr));
+
+int[] arr = { 12,9,4,3,22,10};
+int ans = SecondLargest.SLarge(arr);
+Console.WriteLine($"Second Largest element is {ans}");
