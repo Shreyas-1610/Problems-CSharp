@@ -18,7 +18,7 @@ namespace FirstDemo
                 string s= Console.ReadLine();
                 str[i] = s;
             }
-            Console.WriteLine("You're friends names are: ");
+            Console.WriteLine("Friend names are: ");
             foreach (string s in str) {
                 Console.Write(s+" ");
             }
