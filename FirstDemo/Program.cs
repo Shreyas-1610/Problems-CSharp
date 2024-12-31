@@ -1,84 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using FirstDemo;
+using System;
 using System.Text.RegularExpressions;
+internal class Program: Ints
+{
+    private static void Main(string[] args)
+    {
+        Ints ints = new Ints();
+        ints.num1 = 3;
+        ints.num2 = 4;
+        int sum = ints.num1 + ints.num2;
+        Console.WriteLine($"Sum of {ints.num1} and {ints.num2} is {sum}");
+    }
+}
 
-
-//FriendsName.Friends();
-//Console.WriteLine("Enter first number: ");
-//float x = float.Parse(Console.ReadLine());
-//Console.WriteLine("Enter second number: ");
-//float y = float.Parse(Console.ReadLine());
-//Squares.SquaresSum(x, y);
-//Squares.SquareDiff(x, y);
-
-//Console.WriteLine("Enter the place which you want to visit the most: ");
-//string FavPlace = Console.ReadLine();
-//MostVisit.ChangeCase(FavPlace);
-
-//Console.WriteLine("Enter a number: ");
-//string s = Console.ReadLine();
-//string res = TenTimes.MultTen(s);
-//Console.WriteLine("The number after multiplying by 10 becomes: "+res);
-
-//Console.WriteLine("Enter the full name: ");
-//string full = Console.ReadLine();
-//FullName.Full(args);
-
-
-//RandomAvg.Average();
-
-//Console.WriteLine("Enter the diameter of the circle: ");
-//int diameter = int.Parse(Console.ReadLine());
-//CircleSol.Perimeter(diameter);
-//CircleSol.Area(diameter);
-
-//Console.WriteLine("Enter the year: ");
-//int year = int.Parse(Console.ReadLine());
-
-//Console.WriteLine("Enter the month(1-12): ");
-//int month = int.Parse(Console.ReadLine());
-
-//Console.WriteLine("Enter the date(1-31): ");
-//int date = int.Parse(Console.ReadLine());
-
-//IncDate.next(year, month, date);
-
-
-//Divisible.Div();
-
-//Console.WriteLine("Enter a number: ");
-//int num = int.Parse(Console.ReadLine());
-//Factorial.Fact(num);
-
-//var watch = System.Diagnostics.Stopwatch.StartNew();
-//WithoutLoop.PrintNumber(1);
-//watch.Stop();
-//var elapsedMs = watch.ElapsedMilliseconds;
-//Console.WriteLine($"Elapsed time in milliseconds: {elapsedMs}");
-
-//Quadratic.Equation(3,-5,-7);
-
-//Fling.Flang();
-
-//Vowel.IsPresent();
-
-//float[] arr = {12.3F,14.33F, 33.23F, 88F,15.6F};
-//float ans = Average.FloatAvg(arr);
-//Console.WriteLine(Math.Round(ans,2));
-
-//int[] a = { 12,33,2,4,3,55,5,89};
-//List<int> final = PrimeArray.getPrime(a);
-//foreach(int i in final)
-//{
-//    Console.Write(i+" ");
-//}
-
-//int[] arr = { 12,5,2,33,0,5,42,1,0};
-//int ans = FirstRepeat.FindFirstOpti(arr);
-//Console.WriteLine(ans);
-//MoveZeros.move(arr);
-//Console.WriteLine(string.Join(" ",arr));
-
-int[] arr = { 12,9,4,3,22,10};
-int ans = SecondLargest.SLarge(arr);
-Console.WriteLine($"Second Largest element is {ans}");
+public class Ints
+{
+    public int num1;
+    public int num2;
+}
