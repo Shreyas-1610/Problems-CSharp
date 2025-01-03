@@ -10,9 +10,9 @@ namespace FirstDemo
     {
         public static void next(int year, int month, int date)
         {
-            DateTime currTime = new DateTime(year, month, date);
-            DateTime nextDate = currTime.AddDays(1);
-            Console.WriteLine($"The next date is  in the format(yyyy-mm-dd): {nextDate:yyyy-mm-dd}");
+            DateOnly currTime = new DateOnly(year, month, date);
+            DateOnly nextDate = currTime.AddDays(1);
+            Console.WriteLine($"The next date is: {nextDate}");
         }
     }
 }
