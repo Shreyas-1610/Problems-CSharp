@@ -12,7 +12,7 @@ internal class Program: Ints
         //int sum = ints.num1 + ints.num2;
         //Console.WriteLine($"Sum of {ints.num1} and {ints.num2} is {sum}");
 
-        //string str = "Shreyas is going Hyderabad .";
+        //string str = "Shreyas is going Hyderabad";
         //string ans = Reverse.Words(str);
         //Console.WriteLine(ans);
 
@@ -39,11 +39,43 @@ internal class Program: Ints
         //GenericImpl.swap(ref a, ref b);
         //Console.WriteLine($"After swapping:a = {a},b = {b}");
 
-        GenericImplTwo<int> intBox = new GenericImplTwo<int>();
-        intBox.Add(1);
-        intBox.Add(2);
-        intBox.Add(3);
-        intBox.Display();
+        //GenericImplTwo<int> intBox = new GenericImplTwo<int>();
+        //intBox.Add(1);
+        //intBox.Add(2);
+        //intBox.Add(3);
+        //intBox.Display();
+        //int[] arr = {12,33,44,1,50};
+        //int[] ans = RemoveArray.ArrElement(arr,4);
+        //foreach(int i in ans)
+        //{
+        //    Console.Write(i+" ");
+        //}
+
+        //RandomAvg.Average();
+
+        //Height.GetCat(149);
+
+        //Iterations.Print();
+
+        //int[] arr = { 12,100,444,4420,120};
+        //int ans = Smallest.Difference(arr);
+        //Console.WriteLine(ans);
+
+        //CreateF.readF();
+
+        //Operations.FindOp();
+        //Line.FindSingleLine();
+
+        //Console.WriteLine("Enter hours: ");
+        //int hour  = int.Parse(Console.ReadLine());
+        //Hour.ConvertToS(hour);
+
+        Console.WriteLine("Enter first number");
+        int n1 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter second number");
+        int n2 = int.Parse(Console.ReadLine());
+        Calculate.N1N2(n1, n2);
     }
 }
 

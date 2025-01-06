@@ -11,9 +11,9 @@ namespace FirstDemo
         public static float FloatAvg(float[] arr)
         {
             float total = 0;
-            foreach(float num in arr)
+            foreach (float num in arr)
             {
-                total+= num;
+                total += num;
             }
             return total / arr.Length;
         }

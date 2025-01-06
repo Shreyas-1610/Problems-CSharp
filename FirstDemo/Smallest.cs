@@ -11,16 +11,15 @@ namespace FirstDemo
         public static int Difference(int[] arr)
         {
             int ans = int.MaxValue;
-            int res = 0;
             Array.Sort(arr);
-            foreach (int i in arr) {
-                int diff = Math.Abs((i + 1) - i);
+            for(int i =1;i<arr.Length;i++) {
+                int diff = arr[i] - arr[i - 1];
                 if(diff< ans)
                 {
-                    res = diff;
+                    ans = diff;
                 }
             }
-            return res;  
+            return ans;  
         }
     }
 }
