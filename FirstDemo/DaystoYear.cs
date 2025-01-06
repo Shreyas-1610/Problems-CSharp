@@ -10,10 +10,10 @@ namespace FirstDemo
     {
         public static void ConvertDays(int totalDays)
         {
-            int years = totalDays / 365;
-            int remain = totalDays % 365;
-            int months = remain / 30;
-            int days = remain % 30;
+            int years = totalDays / 365; //400 = 1
+            int remain = totalDays % 365; //400 = 35
+            int months = remain / 30; //35 = 1
+            int days = remain % 30;//35 = 5
 
             Console.WriteLine($"{totalDays} days = {years} years, {months} months, and {days} days.");
         }

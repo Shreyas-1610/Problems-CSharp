@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace FirstDemo
         {
             DateOnly currTime = new DateOnly(year, month, date);
             DateOnly nextDate = currTime.AddDays(1);
-            Console.WriteLine($"The next date is: {nextDate}");
+            Console.WriteLine($"The next date is : {nextDate}");
         }
     }
 }

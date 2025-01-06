@@ -14,7 +14,7 @@ namespace FirstDemo
             {
                 if(i%7==0 && i % 5 != 0)
                 {
-                    Console.Write(i + ", ");
+                    Console.Write(i + " ");
                 }
             }
             Console.WriteLine();
