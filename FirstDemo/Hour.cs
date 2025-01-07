@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FirstDemo
 {
@@ -10,13 +6,22 @@ namespace FirstDemo
     {
         public static void ConvertToS(int hour)
         {
-            float mins = 0;
-            float secs = 0;
+            try
+            {
+                if (hour < 0)
+                {
+                    throw new Exception("Hour value cannot be negative.");
+                }
 
-            mins = hour * 60;
-            secs = hour * 3600;
+                float mins = hour * 60;
+                float secs = hour * 3600;
 
-            Console.WriteLine($"{hour} hour/s in mins is: {mins} minutes \n{hour} hour/s in seconds are: {secs} seconds");
+                Console.WriteLine($"{hour} hour/s in mins is: {mins} minutes \n{hour} hour/s in seconds are: {secs} seconds");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+            }
         }
     }
 }
