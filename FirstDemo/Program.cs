@@ -70,12 +70,14 @@ internal class Program: Ints
         //int hour  = int.Parse(Console.ReadLine());
         //Hour.ConvertToS(hour);
 
-        Console.WriteLine("Enter first number");
-        int n1 = int.Parse(Console.ReadLine());
+        //Console.WriteLine("Enter first number");
+        //int n1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Enter second number");
-        int n2 = int.Parse(Console.ReadLine());
-        Calculate.N1N2(n1, n2);
+        //Console.WriteLine("Enter second number");
+        //int n2 = int.Parse(Console.ReadLine());
+        //Calculate.N1N2(n1, n2);
+
+        Lambda1.impl2();
     }
 }
 
