@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\bin\Debug\net8.0\DataAnnotPrac.exe
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\bin\Debug\net8.0\DataAnnotPrac.deps.json
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\bin\Debug\net8.0\DataAnnotPrac.runtimeconfig.json
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\bin\Debug\net8.0\DataAnnotPrac.dll
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\bin\Debug\net8.0\DataAnnotPrac.pdb
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.AssemblyInfo.cs
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.dll
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\refint\DataAnnotPrac.dll
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.pdb
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\DataAnnotPrac.genruntimeconfig.cache
+C:\Users\kshre\source\repos\DataAnnotPrac\DataAnnotPrac\obj\Debug\net8.0\ref\DataAnnotPrac.dll
