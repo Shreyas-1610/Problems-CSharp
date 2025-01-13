@@ -8,7 +8,15 @@ namespace DataAnnotPrac
     {
         static void Main(string[] args)
         {
-            UrlVal.Validity();
+            NameVal.Validity();
+            //CreditVal.Validity();
+            //HtmlVal.Validity();
+            //NumberVal.Validity();
+            //TimeVal.Validity();
+            //IPAdd.Validity();
+            //HashVal.Validity();
+            //RGBVal.Validity();
+            //UrlVal.Validity();
             //YearVal.Validity();
             //ReplaceMult.spaces();
             //PassVal.Validity();
