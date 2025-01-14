@@ -13,6 +13,21 @@
             //DirCreate.GetProp();
 
             //DirCreate.DeleteDir();
+<<<<<<< HEAD
+=======
+
+            //FileImpl.MakeFile();
+
+            //FileImpl.WriteFile();
+
+            //FileImpl.ReadFile();
+
+            //FileImpl.AppendFile();
+
+            //FileImpl.CopyFile();
+
+            FileImpl.Prop();
+>>>>>>> 5946ba2 (File Handling)
         }
     }
 }

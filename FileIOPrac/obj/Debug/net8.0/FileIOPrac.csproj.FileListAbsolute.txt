@@ -12,3 +12,7 @@ C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\refint\FileIO
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.pdb
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.genruntimeconfig.cache
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\ref\FileIOPrac.dll
+<<<<<<< HEAD
+=======
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.sourcelink.json
+>>>>>>> 5946ba2 (File Handling)
