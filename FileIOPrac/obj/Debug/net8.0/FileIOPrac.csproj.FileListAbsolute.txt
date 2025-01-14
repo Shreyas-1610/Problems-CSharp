@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\FileIOPrac.exe
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\FileIOPrac.deps.json
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\FileIOPrac.runtimeconfig.json
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\FileIOPrac.dll
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\FileIOPrac.pdb
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.AssemblyInfo.cs
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.dll
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\refint\FileIOPrac.dll
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.pdb
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.genruntimeconfig.cache
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\ref\FileIOPrac.dll
