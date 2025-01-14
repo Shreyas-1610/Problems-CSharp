@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileIOPrac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bd8f4bbc2429a1f8cc64d5fd85969c07fb7c5ba")]
+>>>>>>> 5946ba2 (File Handling)
 [assembly: System.Reflection.AssemblyProductAttribute("FileIOPrac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileIOPrac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
