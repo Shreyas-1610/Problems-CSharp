@@ -7,12 +7,9 @@ C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.Ge
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.AssemblyInfoInputs.cache
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.AssemblyInfo.cs
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.sourcelink.json
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.dll
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\refint\FileIOPrac.dll
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.pdb
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.genruntimeconfig.cache
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\ref\FileIOPrac.dll
-<<<<<<< HEAD
-=======
-C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.sourcelink.json
->>>>>>> 5946ba2 (File Handling)

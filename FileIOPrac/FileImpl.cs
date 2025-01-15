@@ -80,5 +80,19 @@ namespace FileIOPrac
                 Console.WriteLine("File does not exist.");
             }
         }
+
+        public static void DelFile()
+        {
+            string path = @"C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\example.txt";
+            if (!File.Exists(path))
+            {
+                Console.WriteLine("File doesnt exist");
+            }
+            else
+            {
+                File.Delete(path);
+                Console.WriteLine("File deleted");
+            }
+        }
     }
 }
