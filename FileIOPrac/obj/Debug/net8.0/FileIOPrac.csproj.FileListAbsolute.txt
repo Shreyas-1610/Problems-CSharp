@@ -13,3 +13,7 @@ C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\refint\FileIO
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.pdb
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.genruntimeconfig.cache
 C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\ref\FileIOPrac.dll
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.csproj.AssemblyReference.cache
+C:\Users\kshre\source\repos\FileIOPrac\FileIOPrac\obj\Debug\net8.0\FileIOPrac.csproj.Up2Date
