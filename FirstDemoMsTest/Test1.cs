@@ -11,6 +11,8 @@ namespace FirstDemoMsTest
         private Bubble bubble;
         private Reverse reverse;
         private MoveZeros moveZeros;
+        private Average average;
+        private Line line;
 
         [TestInitialize]
         public void Initalize()
@@ -20,6 +22,8 @@ namespace FirstDemoMsTest
             bubble = new Bubble();
             reverse = new Reverse();
             moveZeros = new MoveZeros();
+            average = new Average();
+            line = new Line();
         }
 
         [TestMethod]
@@ -65,6 +69,23 @@ namespace FirstDemoMsTest
             moveZeros.move(arr);
             int[] expected = { 1, 3, 4, 2, 0, 0 };
             CollectionAssert.AreEqual(arr, expected);
+        }
+
+        [TestMethod]
+        [DataRow(new float[] {2.5F,3.5F,1.5F,2.5F},2.5F)]
+        public void TestMethod6(float[] arr, float expected)
+        {
+            var actual = average.FloatAvg(arr);
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        [DataRow(1, 1, 2, 2, 3, 3, true)]
+        [DataRow(1, 1, 2, 2, 3, 4, false)]
+        public void TestMethod7(int x1,int y1, int x2, int y2, int x3, int y3, bool expected)
+        {
+            var actual = line.FindSingleLine(x1, y1, x2, y2, x3, y3);
+            Assert.AreEqual(expected, actual);
         }
     }
 }
